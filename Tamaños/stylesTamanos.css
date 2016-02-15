@@ -1,0 +1,8 @@
+.tamano{
+  height: 200px;
+  width: 50%; /* AL contrario que el height, la propiedad width depende del
+              ancho de la pantalla*/
+  background-color: #85868a;
+  border: solid;
+
+}
