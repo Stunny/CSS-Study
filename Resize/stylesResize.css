@@ -1,0 +1,9 @@
+.tamano{
+  height: 30px;
+  width: 30px;
+  overflow: hidden;/*Oculta todo lo que se salga de las dimensiones
+                    especificadas anteriormente*/
+  border: solid;
+  resize: both; /*Permite al usuario redimensionar el cuadro
+                de texto*/
+}
