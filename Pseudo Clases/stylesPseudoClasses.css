@@ -1,0 +1,30 @@
+a{
+  color:#000000;
+  text-decoration: none;
+}
+a:link{
+  color:#d53246;
+
+}
+a:visited{
+  color:#1d658e;
+}
+a:hover{
+  background-color: rgb(159, 157, 163);
+}
+input:focus{
+  color: #ffffff;
+  background-color: #000000;
+}
+input:hover{
+  background-color: #f76000;
+}
+ul li:first-child{
+  background-color: #469839;
+}
+ul li:last-child{
+  color: #e624c1;
+}
+ul li:nth-last-child(1){
+  color: #cedd74;
+}
