@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "myFontName";
+  src:url(myFontSource.ttf), url(myFontSource.eot);
+}
+/*Una de las mejores paginas de source de web fonts es
+www.google.com/webfonts
+*/
+.parrafo-personalizado{
+  font-family: "myFontName";
+}
