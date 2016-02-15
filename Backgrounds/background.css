@@ -1,0 +1,12 @@
+body{
+  /*background-color: #72adac;*/
+  background-image: url(rutaDeMiFondoSuperior), url(rutaDeMiFondoInferior)...;
+  background-repeat: no-repeat, repeat;/* repeat, repeat-x, repeat-y ... */
+  background-position: center bottom, left top;
+  background-size: 100% 100%;
+}
+.space{
+  height: 800px;
+  width: 50%;
+  border: solid;
+}
