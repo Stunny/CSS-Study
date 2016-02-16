@@ -1,0 +1,14 @@
+#content{
+  width: 800px;
+  margin: 0 auto;
+  background-color: rgb(132, 124, 199);
+  height: 1000px;
+}
+.div_prueba{
+  height: 100px;
+  width: 300px;
+  background-color: #81c8eb;
+  position: fixed;
+  top: -10px;
+  left: -10px;
+}
